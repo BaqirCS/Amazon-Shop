@@ -21,7 +21,13 @@ export default function Nav() {
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-lg-0"></ul>
+            <ul class="navbar-nav me-auto mb-lg-0">
+              <li class="nav-item">
+                <p class="nav-link" href="#">
+                  Link
+                </p>
+              </li>
+            </ul>
           </div>
         </div>
       </nav>
