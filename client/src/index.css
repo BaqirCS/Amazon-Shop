@@ -1,4 +1,5 @@
-.bNav {
-  height: 60px;
+header {
+  padding: 1rem;
   background-color: #404040;
+  color: white;
 }
